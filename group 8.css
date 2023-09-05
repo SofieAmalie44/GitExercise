@@ -1,8 +1,14 @@
 body h1 {
     color: deeppink;
+    display: flex;
+    justify-content: center;
+    margin-top: 66px;
 }
 .intro {
     color: midnightblue;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
 }
 
 .christine {
